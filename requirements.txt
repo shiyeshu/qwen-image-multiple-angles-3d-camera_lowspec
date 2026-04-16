@@ -29,6 +29,6 @@ dashscope
 kernels
 pillow
 numpy
-
+rembg[gpu]
 # GGUF quantization support
 gguf
