@@ -9,8 +9,6 @@
 ## ✨ 主要特性
 
 ### 核心优化
-- **GGUF Q2_K 量子化**: 40GB → 7.47GB（约 80% 削减）
-- **CPU Offloading**: 支持 12GB 显存运行
 - **Windows 完全兼容**: 一键启动脚本，自动安装依赖
 - **Hugging Face 镜像**: 国内 hf-mirror.com 加速下载
 
@@ -128,6 +126,7 @@ Apache 2.0 - 原始模型: [Qwen/Qwen-Image-Edit-2511](https://huggingface.co/Qw
 ## 🙏 致谢
 
 - **原始项目**: [multimodalart/qwen-image-multiple-angles-3d-camera](https://huggingface.co/spaces/multimodalart/qwen-image-multiple-angles-3d-camera)
+- **上游项目**：[qwen-image-multiple-angles-3d-camera_lowspec](https://github.com/tomosud/qwen-image-multiple-angles-3d-camera_lowspec)
 - **GGUF 量化**: [unsloth](https://huggingface.co/unsloth)
 - **模型**: [Qwen Team](https://huggingface.co/Qwen)
 - **抠图**: [Rembg](https://github.com/danielgatis/rembg)
